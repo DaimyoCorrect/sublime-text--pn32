@@ -1,4 +1,4 @@
-# 
+# smart Sublime Text for PC | Sublime Text for Windows Extension | snippets + markdown-preview offers the most advanced Sublime Text for PC | Sublime Text for Windows extension,
 
 
 
